@@ -1,3 +1,14 @@
-.feedback__btn {
-  margin-left: 10px;
+.btn {
+  padding: 10px;
+  margin-left: 15px;
+  background-color: rgb(11, 184, 147);
+  font-size: 24px;
+  border-radius: 15px;
+  color: black;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background-color: rgb(8, 44, 245);
 }
